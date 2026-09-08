@@ -1,0 +1,1 @@
+My projects and solutions developed during the SoftUni Python ORM course.

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="django" name="Django">
+      <configuration>
+        <option name="rootFolder" value="$MODULE_DIR$/lecture_2_models_basics" />
+        <option name="settingsModule" value="settings.py" />
+        <option name="manageScript" value="$MODULE_DIR$/lecture_2_models_basics/manage.py" />
+        <option name="environment" value="&lt;map/&gt;" />
+        <option name="doNotUseTestRunner" value="false" />
+        <option name="trackFilePattern" value="migrations" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/data_operations_exercise/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/demo_shop/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/lecture_2_models_basics/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/lecture_4_data_operations/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/lecture_5_workng_with_queries/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/lecture_6_models_relations/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/lecture_7_models_inheritance/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/lecture_8_advanced_techniques/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/lecture_8_exercise/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/lecture_9_advanced_queries/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/lecture_9_exercise/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/migrations_admin_exercise/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/models_basics_exercise/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/models_inheritance_customization/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/models_relations_exercise/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/working_with_queries_exercise/.venv" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PyDocumentationSettings">
+    <option name="format" value="PLAIN" />
+    <option name="myDocStringFormat" value="Plain" />
+  </component>
+</module>
